@@ -125,5 +125,8 @@ Validar parâmetros
 
 Automatizar tarefas repetitivas
 
+### Importante:
+->  tar pode ser usado para descompactar arquivos com a opção -x (extrair), como em tar -xzf arquivo.tar.gz, e para listar o conteúdo de um arquivo compactado com -t
+
 🎯 Ideia principal
 Scripts Bash = automação + produtividade + padronização no Linux
