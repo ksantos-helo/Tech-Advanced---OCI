@@ -84,6 +84,8 @@ Testar APIs públicas (ex: JSONPlaceholder)
 
 Salvar requests em Collections
 
+[Postman: saiba como instalar e dar seus primeiros passos](https://www.alura.com.br/artigos/postman-como-instalar-dar-seus-primeiros-passos)
+
 [Introdução ao Postman #AluraMais](https://www.youtube.com/watch?v=op81bMbgZXs)
 
 [HTTP GET vs POST: Entenda a diferença e quando usar cada método](https://www.alura.com.br/artigos/diferencas-entre-get-e-post)
