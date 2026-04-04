@@ -4,7 +4,7 @@ precisamos dominar são quatro métodos básicos, pilares de uma aplicação web
 
 ### ⚠️ POST  - Criar (Create);
 
-### ⚠️ GET  - Ler (Read);
+### ⚠️ GET - Ler (Read);
 
 ### ⚠️ PUT  - Atualizar (Update);
 
