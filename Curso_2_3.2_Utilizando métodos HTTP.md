@@ -2,7 +2,7 @@
 
 precisamos dominar são quatro métodos básicos, pilares de uma aplicação web. Inclusive, eles são bem conhecidos e formam um acrônimo que você já deve ter ouvido falar. São eles:
 
-### ⚠️ 'Post' - Criar (Create);
+### ⚠️ "Post" - Criar (Create);
 
 ### ⚠️ 'Get' - Ler (Read);
 
