@@ -45,3 +45,5 @@
   - 🔒 Segurança (assimétrica)
   - ⚡ Performance (simétrica)
 - Garante comunicação segura e eficiente 🚀
+
+[recomendamos a leitura do artigo: (Criptografia: entendendo as diferenças entre simétrica, assimétrica e homomórfica.](https://www.alura.com.br/artigos/criptografia-diferencas-simetrica-assimetrica-homomorfica)
