@@ -52,3 +52,5 @@
 ## 🧠 Conclusão
 - **TCP** → ideal quando a **confiabilidade é essencial** (ex: web, APIs).
 - **UDP** → ideal quando a **velocidade é prioridade** (ex: streaming).
+
+[ artigo: (O que é UDP e TCP? Entenda quais as diferenças e como funciona cada Protocolo).](https://www.alura.com.br/artigos/quais-as-diferencas-entre-o-tcp-e-o-udp)
