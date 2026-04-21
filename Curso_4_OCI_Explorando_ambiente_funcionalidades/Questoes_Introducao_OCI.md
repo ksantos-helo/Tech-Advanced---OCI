@@ -54,7 +54,8 @@ Neste cenário, distribuir os servidores e nós de banco de dados em diferentes 
 
 Uma região da OCI é composta por um ou mais domínios de disponibilidade isolados e interconectados. Cada domínio de disponibilidade é uma localização física separada dentro de uma região. O número de domínios de disponibilidade por região pode variar; algumas regiões da OCI têm três domínios de disponibilidade, enquanto outras têm um único domínio de disponibilidade.
 
-📘 Explicação
+## 📘 Explicação
+
 🔹 O que é Região na OCI?
 
 Uma Região OCI é uma área geográfica específica onde a Oracle mantém sua infraestrutura de nuvem.
@@ -62,6 +63,7 @@ Uma Região OCI é uma área geográfica específica onde a Oracle mantém sua i
 Exemplos:
 
 📍 São Paulo
+
 📍 Vinhedo
 
 Dentro de cada região existem um ou mais Availability Domains (ADs).
@@ -71,7 +73,9 @@ Dentro de cada região existem um ou mais Availability Domains (ADs).
 São datacenters independentes dentro da mesma região, separados em:
 
 ⚡ Energia
+
 ❄️ Refrigeração
+
 🌐 Rede
 
 Isso garante alta disponibilidade.
