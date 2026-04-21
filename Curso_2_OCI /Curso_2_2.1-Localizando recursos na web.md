@@ -1,7 +1,5 @@
 # Projeto AllBooks – Conceitos de Acesso Web
 
-# Projeto AllBooks – Conceitos de Acesso Web
-
 | Conceito      | O que é / Função                                    | Exemplo                        |
 |---------------|-----------------------------------------------------|--------------------------------|
 | **URL**       | Localiza recursos na web (páginas, scripts, serviços) | http://localhost:3000/         |
