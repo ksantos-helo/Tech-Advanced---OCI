@@ -79,3 +79,13 @@ São datacenters independentes dentro da mesma região, separados em:
 🌐 Rede
 
 Isso garante alta disponibilidade.
+
+
+# 🎯 O que cai na prova
+
+✅ Região = área geográfica da OCI (ex: São Paulo)  
+✅ Availability Domain (AD) = data center isolado dentro da região  
+✅ Fault Domain = separação física dentro do AD (anti-afinidade)  
+✅ Cada AD possui 3 Fault Domains  
+✅ Fault Domain = protege contra falha de hardware dentro do mesmo AD  
+✅ Região pode ter 1 ou mais Availability Domains  
