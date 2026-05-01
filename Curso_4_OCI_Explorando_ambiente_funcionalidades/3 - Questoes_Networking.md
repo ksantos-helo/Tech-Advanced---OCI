@@ -231,3 +231,16 @@ Outras VCNs
 Outras regiões
 
 FastConnect / VPN
+
+# 🎯 O que cai na prova (resumo final)
+
+✔️ VCN Peering = conexão privada (não é VPN)  
+✔️ Local Peering = mesma região  
+✔️ Remote Peering = regiões diferentes  
+✔️ CIDR não pode se sobrepor  
+✔️ VCN = 1 região apenas  
+✔️ VCN pode ter várias sub-redes e recursos  
+✔️ Load Balancer NLB = camada 4  
+✔️ NAT Gateway = saída internet apenas  
+✔️ Internet Gateway = entrada e saída internet  
+✔️ LPG não é criado automaticamente  
