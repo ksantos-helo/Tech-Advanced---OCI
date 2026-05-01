@@ -71,3 +71,136 @@ Provedores externos
 Cada recurso no OCI é identificado por um Oracle Cloud Identifier (OCID) único, que é usado para identificar o recurso.
 
 ☑️ D) Com Nome de Usuário
+
+
+# 🎯 O que cai na prova (OCI IAM - Identity and Access Management)
+
+---
+
+# 👥 Organização de usuários
+
+## 📌 Grupos (Groups)
+
+✅ Organizam vários usuários em equipes  
+✅ Facilitam gestão de permissões  
+✅ Usados para aplicar políticas em conjunto  
+
+👉 Exemplo:
+- DevOps Team
+- Finance Team
+- Admins
+
+---
+
+# 🔐 OCI IAM (Identity and Access Management)
+
+## 🎯 Função principal
+
+✅ Controlar acesso aos recursos da OCI  
+✅ Definir permissões por usuário ou grupo  
+✅ Garantir segurança e governança  
+
+---
+
+## 🧠 O que cai na prova
+
+✔️ IAM controla acesso de usuários e grupos  
+✔️ Permissões são dadas via **políticas (Policies)**  
+✔️ Usuários fazem parte de grupos  
+
+---
+
+# ❌ Compartimentos (Pegadinha de prova)
+
+## 📦 Compartments
+
+- Usados para organizar recursos
+- Usados para isolamento e segurança
+
+## ❌ ERRADO (cai muito):
+
+🚫 “Criar tudo no compartimento raiz”
+
+👉 Isso NÃO é recomendado
+
+---
+
+## 🎯 Correto:
+
+✔️ Usar múltiplos compartments  
+✔️ Segmentar por projeto / equipe / ambiente  
+
+---
+
+# 🚫 O que NÃO faz parte do IAM
+
+## ❌ Network Security Group (NSG)
+
+👉 Não é IAM
+
+### 📌 Ele pertence a:
+
+🌐 Networking (rede)
+
+### 🎯 Função:
+
+- 🔒 Controlar tráfego de rede
+- 🚪 Regras de entrada (Ingress)
+- 🚪 Regras de saída (Egress)
+- 🖥️ Proteger instâncias
+
+---
+
+# 🔑 Componentes do IAM
+
+## 👤 Principals (Principais)
+
+✔️ Usuários  
+✔️ Grupos  
+✔️ Serviços  
+
+---
+
+## 📜 Policies (Políticas)
+
+✔️ Definem permissões  
+Ex:
+- “Grupo DevOps pode gerenciar instâncias”
+
+---
+
+## 🔗 Federation
+
+✔️ Integra identidades externas  
+- Microsoft AD  
+- SSO  
+- Provedores externos  
+
+---
+
+# 🆔 Identificação de recursos OCI
+
+## 🎯 OCID
+
+✔️ Oracle Cloud Identifier  
+✔️ ID único de cada recurso na OCI  
+
+---
+
+## ❌ Não é usado:
+
+🚫 Nome de usuário  
+🚫 Nome do compartimento  
+🚫 Apenas label simples  
+
+---
+
+# 🎯 O que cai na prova (resumo final)
+
+✅ Groups = organizam usuários em equipes  
+✅ IAM = controla acesso a recursos OCI  
+✅ Policies = definem permissões  
+✅ Compartments = organizam e isolam recursos  
+🚫 Não usar compartimento raiz para tudo  
+🚫 NSG NÃO é IAM (é Networking)  
+✅ OCID = identificador único de recursos  
