@@ -40,6 +40,7 @@ Qual recurso garante durabilidade e proteção contra falhas?
 - 🔁 Protege contra falhas de hardware  
 
 **📌 Resumo:**  
+O serviço OCI Block Volume usa replicação para garantir a durabilidade dos dados e proteção contra falhas de hardware. Os dados são automaticamente replicados em vários dispositivos de armazenamento dentro do mesmo domínio de disponibilidade.
 > Replicação = segurança + alta disponibilidade 🛡️  
 
 ---
