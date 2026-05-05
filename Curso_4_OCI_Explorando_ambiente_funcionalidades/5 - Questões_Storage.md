@@ -9,15 +9,16 @@ Material resumido com explicações objetivas e emojis para facilitar a memoriza
 **❓ Pergunta:**  
 Você criou um bucket no nível Archive. Qual afirmação **NÃO é válida**?
 
-**✅ Resposta correta:**  
-❌ **O bucket de armazenamento Archive pode ser atualizado para o armazenamento Standard.**
+**✅ Resposta correta:** 
+
+❌ O bucket de armazenamento Archive pode ser atualizado para o armazenamento Standard.
 
 **💡 Explicação:**
 
 - 🚫 Buckets **Archive NÃO podem ser convertidos** para Standard  
 - ⏳ Tempo mínimo de armazenamento: **90 dias**  
 - 🔒 Objetos **não são acessados diretamente**  
-- 🔄 É necessário **restaurar o objeto** antes de acessar  
+- 🔄 É necessário **serem restaurados para o nível Standard antes de serem lidos.**
 
 **📌 Resumo:**  
 > Archive = barato 💰 + acesso lento 🐢 + retenção longa 📦  
